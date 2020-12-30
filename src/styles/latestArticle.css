@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+.hr-article {
+    width: 42em;
+    padding: 0 1em 0 1em;
+    margin: 3em 1em 2em 6.5em;
+    border-top: 1px solid rgba(173, 171, 171, 0.685);
+}
+.article-image {
+    width: 259px;
+    height: 194px;
+    background: transparent url('./../components/latestArticle/images/ilona-frey-yXEdF3MD5SA-unsplash.jpg') 0% 0% no-repeat padding-box;
+    background-size: 259px 194px;
+    box-shadow: 0px 5px 10px #0000000D;
+    border-radius: 2px;
+    opacity: 1;
+}
+.hr-latest-article {
+    width: 4em;
+    margin-left: 6.5em;
+    margin-top: -1.5em;
+    border-top: 2px solid orange;
+}
+.latest-article-details {
+    display: inline-flex;
+    padding: 0em 0em 1em 6.5em;
+}
+.article-text {
+    margin: -1.5em 0 0 0;
+    display: table-caption;
+    padding: 0 0 0 1.5em;
+    font-family: 'Montserrat', sans-serif;
+    width: 18em;
+}
+/* .article-main {
+    padding: 0 0 0 0;
+} */
+.article-title {
+    font-size: 1.5em;
+}
+.bottom-text i {
+    color: orange;
+}

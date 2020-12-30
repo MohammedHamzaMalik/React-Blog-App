@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+.article-big-card {
+    top: 300px;
+    left: 242px;
+    width: 708px;
+    height: 448px;
+    background: transparent url(./../components/latestArticle/images/ilona-frey-yXEdF3MD5SA-unsplash.jpg) 0% 0% no-repeat padding-box;
+    background-size: 708px 448px;
+    box-shadow: 0px 5px 10px #0000001A;
+    border-radius: 7px;
+    opacity: 1;
+}
+.ar-h3-bc {
+        font-size: 2em;
+        font-weight: 100;
+
+}
+.article-big-card-details {
+    margin: 15em 0 0 10em;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+}
+.ar-p {
+    color: #fff;
+    margin: 3em 0 0 5em;
+    font-size: 1em;
+}

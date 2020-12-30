@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+.top-post{
+    /* display: flex; */
+    margin: 0 0 0 -2.5em;
+}
+.top-post-main {
+    font-family: 'Montserrat', sans-serif;
+    margin: -50em 0 13em 55em;    
+}
+.big-image {
+    width: 352px;
+    height: 206px;
+    background-image: url(./../components/latestArticle/images/jung-ho-park-O-hrnGSItJI-unsplash.jpg);
+    background-size: 352px 206px;
+    box-shadow: 0px 5px 10px #0000000D;
+    border-radius: 3px;
+    opacity: 1;
+}
+.tp {
+    /* padding-right: 2em 0 0 2em; */
+    margin: 1em 0 1em -1.4em;
+    font-size: 1.9em;
+}
+.hr-post {
+    width: 4em;
+    margin: -0.5em 0 1em -2.5em;
+    border-top: 2px solid orange;
+}
+.top-post-details {
+    width: 270px;
+}
+.post-title {
+    font-size: 1.3em;
+}
+.number {
+    display: flex;
+    font-size: 4em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 1.48px;
+    color: #F0F0F0;
+    /* opacity: 1; */
+    font-weight: 600;
+    margin: -2em 0 0 5em;
+}

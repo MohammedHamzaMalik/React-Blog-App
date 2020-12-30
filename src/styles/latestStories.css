@@ -1,0 +1,42 @@
+.hr-latest-article {
+    width: 4em;
+    margin-left: 6.5em;
+    margin-top: -1.5em;
+    border-top: 2px solid orange;
+}
+.stories-main {
+    display: inline-flex;
+    width: 69em;
+    padding: 0 0 0 2em;
+}
+.story-details {
+    display: table-caption;
+    /* padding: 0 7em 0 7em; */
+}
+.hr-story {
+    width: 64em;
+    padding: 0 1em 0 1em;
+    margin: 3em 1em 2em 6.5em;
+    border-top: 1px solid rgba(173, 171, 171, 0.685);
+}
+.vl {
+    border-left: 1px solid rgba(173, 171, 171, 0.685);
+    margin: -8em -2em 0 -2em;
+}
+.story-text {
+    padding: 0 5em 0 5em;
+}
+.bottom-text {
+    padding: 0 0 4em 9em;
+}
+.story-details {
+    font-family: 'Montserrat', sans-serif;
+    margin: -10em 0 0 0;
+}
+.story-title {
+    font-size: 1.7em;
+    font-weight: 100;
+}
+h3 {
+    font-weight: 100;
+}

@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+.blog-details {
+    display: flex;
+    padding: 3em 7em;
+}
+.big-card {
+    top: 300px;
+    left: 242px;
+    width: 708px;
+    height: 448px;
+    background: transparent url(./../components/Masthead/images/daniel-sessler-PRSm9_059_I-unsplash.jpg) 0% 0% no-repeat padding-box;
+    background-size: 708px 448px;
+    box-shadow: 0px 5px 10px #0000001A;
+    border-radius: 7px;
+    opacity: 1;
+}
+
+.small-card {
+    top: 300px;
+    left: 1213px;
+    width: 345px;
+    height: 214px;
+    background: transparent url(./../components/Masthead/images/evie-s-Sw7f58YJbc0-unsplash.jpg) 0% 0% no-repeat padding-box;
+    background-size: 345px 214px;
+    box-shadow: 0px 5px 10px #0000000D;
+    border-radius: 7px;
+    opacity: 1;
+    margin-top: 1.25em;
+}
+.small-card-details {
+    display: inline;
+    justify-content: center;
+}
+.small-card-list {
+    padding: 0 0 0 0;
+    margin: -32.15em 0 0 52.4em;
+}
+.hr-small-card {
+    width: 2em;
+    margin: 0 0 0 0;
+    border-top: 2px solid rgba(255, 255, 255, 0.301);
+}
+.big-card-details {
+    margin: 18em 0 0 4em;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+}
+.small-card-text {
+    padding: 4em 0 0 1em;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+}
+.h3-bc {
+    font-size: 2em;
+    font-weight: 100;
+}
+.h3-sc {
+    font-weight: 500;
+}
+p {
+    font-size: 0.8em;
+    color: rgba(173, 171, 171, 0.685);
+}
