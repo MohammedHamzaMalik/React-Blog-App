@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/React-Blog-App/static/css/main.cae98040.chunk.css",
+    "main.js": "/React-Blog-App/static/js/main.70826c9b.chunk.js",
+    "main.js.map": "/React-Blog-App/static/js/main.70826c9b.chunk.js.map",
+    "runtime-main.js": "/React-Blog-App/static/js/runtime-main.1d609fd0.js",
+    "runtime-main.js.map": "/React-Blog-App/static/js/runtime-main.1d609fd0.js.map",
+    "static/js/2.d400ed00.chunk.js": "/React-Blog-App/static/js/2.d400ed00.chunk.js",
+    "static/js/2.d400ed00.chunk.js.map": "/React-Blog-App/static/js/2.d400ed00.chunk.js.map",
+    "static/js/3.5297688e.chunk.js": "/React-Blog-App/static/js/3.5297688e.chunk.js",
+    "static/js/3.5297688e.chunk.js.map": "/React-Blog-App/static/js/3.5297688e.chunk.js.map",
+    "index.html": "/React-Blog-App/index.html",
+    "static/css/main.cae98040.chunk.css.map": "/React-Blog-App/static/css/main.cae98040.chunk.css.map",
+    "static/js/2.d400ed00.chunk.js.LICENSE.txt": "/React-Blog-App/static/js/2.d400ed00.chunk.js.LICENSE.txt",
+    "static/media/mastheadStyle.css": "/React-Blog-App/static/media/daniel-sessler-PRSm9_059_I-unsplash.901b6984.jpg",
+    "static/media/topPostSmall.css": "/React-Blog-App/static/media/evie-s-Sw7f58YJbc0-unsplash.4934216b.jpg",
+    "static/media/articleBigCard.css": "/React-Blog-App/static/media/ilona-frey-yXEdF3MD5SA-unsplash.3cac6485.jpg",
+    "static/media/topPost.css": "/React-Blog-App/static/media/jung-ho-park-O-hrnGSItJI-unsplash.af9ed2b5.jpg",
+    "static/media/latestBlog.css": "/React-Blog-App/static/media/yogendra-singh-sNyKXzyRZIs-unsplash.bc7689f3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d609fd0.js",
+    "static/js/2.d400ed00.chunk.js",
+    "static/css/main.cae98040.chunk.css",
+    "static/js/main.70826c9b.chunk.js"
+  ]
+}
