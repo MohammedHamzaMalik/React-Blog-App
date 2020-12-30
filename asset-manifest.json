@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/React-Blog-App/static/css/main.cae98040.chunk.css",
+    "main.css": "/React-Blog-App/static/css/main.ec33cd7a.chunk.css",
     "main.js": "/React-Blog-App/static/js/main.70826c9b.chunk.js",
     "main.js.map": "/React-Blog-App/static/js/main.70826c9b.chunk.js.map",
     "runtime-main.js": "/React-Blog-App/static/js/runtime-main.1d609fd0.js",
@@ -10,7 +10,7 @@
     "static/js/3.5297688e.chunk.js": "/React-Blog-App/static/js/3.5297688e.chunk.js",
     "static/js/3.5297688e.chunk.js.map": "/React-Blog-App/static/js/3.5297688e.chunk.js.map",
     "index.html": "/React-Blog-App/index.html",
-    "static/css/main.cae98040.chunk.css.map": "/React-Blog-App/static/css/main.cae98040.chunk.css.map",
+    "static/css/main.ec33cd7a.chunk.css.map": "/React-Blog-App/static/css/main.ec33cd7a.chunk.css.map",
     "static/js/2.d400ed00.chunk.js.LICENSE.txt": "/React-Blog-App/static/js/2.d400ed00.chunk.js.LICENSE.txt",
     "static/media/mastheadStyle.css": "/React-Blog-App/static/media/daniel-sessler-PRSm9_059_I-unsplash.901b6984.jpg",
     "static/media/topPostSmall.css": "/React-Blog-App/static/media/evie-s-Sw7f58YJbc0-unsplash.4934216b.jpg",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.1d609fd0.js",
     "static/js/2.d400ed00.chunk.js",
-    "static/css/main.cae98040.chunk.css",
+    "static/css/main.ec33cd7a.chunk.css",
     "static/js/main.70826c9b.chunk.js"
   ]
 }
