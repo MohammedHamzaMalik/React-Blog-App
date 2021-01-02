@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+Click on this link and check out the project: https://mohammedhamzamalik.github.io/React-Blog-App/
 ## Available Scripts
 
 In the project directory, you can run:
